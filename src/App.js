@@ -1,13 +1,25 @@
-import React, { Component } from "react";
+import React, { useState, useEffect } from "react";
+import axios from "axios";
+import LineChart from "./LineChart";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="container">
-        <h2>Sample text</h2>
-      </div>
-    );
-  }
-}
+const App = () => {
+  const [weatherData, setWeatherData] = useState([]);
+
+  useEffect(() => {
+    axios.get("/data.json").then(response => {
+      const data = response.data;
+      setWeatherData(data);
+    });
+  }, []);
+
+  return (
+    <div className="container">
+      <LineChart
+        chartData={weatherData}
+        chartTitle={"Average temperature for London"}
+      />
+    </div>
+  );
+};
 
 export default App;
