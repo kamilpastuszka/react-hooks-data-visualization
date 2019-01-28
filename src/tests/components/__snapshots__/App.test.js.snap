@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render App component correctly 1`] = `
+<div
+  class="container"
+>
+  <div>
+    <div
+      style="display:flex;justify-content:center"
+    >
+      <h2>
+        Average temperature for London
+      </h2>
+    </div>
+    <div
+      class="recharts-wrapper"
+      style="position:relative;cursor:default;width:730px;height:450px"
+    >
+      <svg
+        class="recharts-surface"
+        height="450"
+        version="1.1"
+        viewBox="0 0 730 450"
+        width="730"
+      >
+        <clipPath
+          id="recharts2-clip"
+        >
+          <rect
+            height="385"
+            width="620"
+            x="80"
+            y="30"
+          />
+        </clipPath>
+        <g
+          class="recharts-cartesian-grid"
+        >
+          <g
+            class="recharts-cartesian-grid-horizontal"
+          >
+            <line
+              fill="none"
+              height="385"
+              stroke="#ccc"
+              stroke-dasharray="3 3"
+              width="620"
+              x="80"
+              x1="80"
+              x2="700"
+              y="30"
+              y1="30"
+              y2="30"
+            />
+            <line
+              fill="none"
+              height="385"
+              stroke="#ccc"
+              stroke-dasharray="3 3"
+              width="620"
+              x="80"
+              x1="80"
+              x2="700"
+              y="30"
+              y1="415"
+              y2="415"
+            />
+          </g>
+          <g
+            class="recharts-cartesian-grid-vertical"
+          >
+            <line
+              fill="none"
+              height="385"
+              stroke="#ccc"
+              stroke-dasharray="3 3"
+              width="620"
+              x="80"
+              x1="80"
+              x2="80"
+              y="30"
+              y1="30"
+              y2="415"
+            />
+            <line
+              fill="none"
+              height="385"
+              stroke="#ccc"
+              stroke-dasharray="3 3"
+              width="620"
+              x="80"
+              x1="700"
+              x2="700"
+              y="30"
+              y1="30"
+              y2="415"
+            />
+          </g>
+        </g>
+        <g
+          class="recharts-layer recharts-cartesian-axis recharts-yAxis yAxis"
+        >
+          <line
+            class="recharts-cartesian-axis-line"
+            fill="none"
+            height="385"
+            stroke="#666"
+            width="60"
+            x="20"
+            x1="80"
+            x2="80"
+            y="30"
+            y1="30"
+            y2="415"
+          />
+          <g
+            class="recharts-cartesian-axis-ticks"
+          />
+        </g>
+      </svg>
+      <div
+        class="recharts-tooltip-wrapper"
+        style="pointer-events:none;visibility:hidden;position:absolute;top:0;transform:translate(undefinedpx, undefinedpx);-webkit-transform:translate(undefinedpx, undefinedpx);-moz-transform:translate(undefinedpx, undefinedpx);-o-transform:translate(undefinedpx, undefinedpx);-ms-transform:translate(undefinedpx, undefinedpx)"
+      >
+        <div
+          class="recharts-default-tooltip"
+          style="margin:0;padding:10px;background-color:#fff;border:1px solid #ccc;white-space:nowrap"
+        >
+          <p
+            class="recharts-tooltip-label"
+            style="margin:0"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
