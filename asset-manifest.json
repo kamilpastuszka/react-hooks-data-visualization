@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-hooks-data-visualization/static/css/main.50f61f29.chunk.css",
-  "main.js": "/react-hooks-data-visualization/static/js/main.ee79c418.chunk.js",
-  "main.js.map": "/react-hooks-data-visualization/static/js/main.ee79c418.chunk.js.map",
-  "static/js/1.a3b33019.chunk.js": "/react-hooks-data-visualization/static/js/1.a3b33019.chunk.js",
-  "static/js/1.a3b33019.chunk.js.map": "/react-hooks-data-visualization/static/js/1.a3b33019.chunk.js.map",
-  "runtime~main.js": "/react-hooks-data-visualization/static/js/runtime~main.743c4fa9.js",
-  "runtime~main.js.map": "/react-hooks-data-visualization/static/js/runtime~main.743c4fa9.js.map",
-  "static/css/main.50f61f29.chunk.css.map": "/react-hooks-data-visualization/static/css/main.50f61f29.chunk.css.map",
-  "index.html": "/react-hooks-data-visualization/index.html",
-  "precache-manifest.33cd77e972beca01260f9ec89a2fe285.js": "/react-hooks-data-visualization/precache-manifest.33cd77e972beca01260f9ec89a2fe285.js",
-  "service-worker.js": "/react-hooks-data-visualization/service-worker.js"
+  "main.css": "/responsive-css-grid-gallery/static/css/main.4996e05f.chunk.css",
+  "main.js": "/responsive-css-grid-gallery/static/js/main.d0cd355c.chunk.js",
+  "main.js.map": "/responsive-css-grid-gallery/static/js/main.d0cd355c.chunk.js.map",
+  "static/js/1.0230749d.chunk.js": "/responsive-css-grid-gallery/static/js/1.0230749d.chunk.js",
+  "static/js/1.0230749d.chunk.js.map": "/responsive-css-grid-gallery/static/js/1.0230749d.chunk.js.map",
+  "runtime~main.js": "/responsive-css-grid-gallery/static/js/runtime~main.eece4180.js",
+  "runtime~main.js.map": "/responsive-css-grid-gallery/static/js/runtime~main.eece4180.js.map",
+  "static/css/main.4996e05f.chunk.css.map": "/responsive-css-grid-gallery/static/css/main.4996e05f.chunk.css.map",
+  "index.html": "/responsive-css-grid-gallery/index.html",
+  "precache-manifest.dfc1f78df67e7292989d13a27f1a8d12.js": "/responsive-css-grid-gallery/precache-manifest.dfc1f78df67e7292989d13a27f1a8d12.js",
+  "service-worker.js": "/responsive-css-grid-gallery/service-worker.js"
 }

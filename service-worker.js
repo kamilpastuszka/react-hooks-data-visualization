@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-hooks-data-visualization/precache-manifest.33cd77e972beca01260f9ec89a2fe285.js"
+  "/responsive-css-grid-gallery/precache-manifest.dfc1f78df67e7292989d13a27f1a8d12.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-hooks-data-visualization/index.html", {
+workbox.routing.registerNavigationRoute("/responsive-css-grid-gallery/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
