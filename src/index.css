@@ -22,11 +22,15 @@ body {
   color: var(--color-primary);
 }
 
+.header {
+  margin-bottom: 4rem;
+  text-transform: capitalize;
+}
+
 .container {
-  max-width: 100rem;
-  margin: 8rem auto;
+  width: 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 50rem;
+  height: 100vh;
 }

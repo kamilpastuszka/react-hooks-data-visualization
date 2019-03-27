@@ -19,7 +19,9 @@ const Chart = props => {
   return (
     <div>
       <div style={titleStyle}>
-        <h2>{props.chartTitle}</h2>
+        <div className="header">
+          <h2>{props.chartTitle}</h2>
+        </div>
       </div>
       <LineChart
         width={730}
